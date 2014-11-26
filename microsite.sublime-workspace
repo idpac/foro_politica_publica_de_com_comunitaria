@@ -1,0 +1,402 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fon",
+				"font-variant"
+			],
+			[
+				"fo",
+				"font-style"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"ht",
+				"toHTML"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "out/index.html",
+			"settings":
+			{
+				"buffer_size": 1066,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/partials/header.html.jade",
+			"settings":
+			{
+				"buffer_size": 330,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/layouts/default.html.eco",
+			"settings":
+			{
+				"buffer_size": 106,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"ss",
+				"Set Syntax: Jade"
+			],
+			[
+				"beauti",
+				"HTMLBeautify"
+			],
+			[
+				"pci",
+				"Package Control: Install Package"
+			],
+			[
+				"bautif",
+				"HTMLBeautify"
+			],
+			[
+				"bauti",
+				"HTMLBeautify"
+			],
+			[
+				"inde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"in",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"sshtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"ssja",
+				"Set Syntax: Jade"
+			],
+			[
+				"ssmmd",
+				"Set Syntax: MultiMarkdown"
+			],
+			[
+				"ssmd",
+				"Set Syntax: Markdown"
+			],
+			[
+				"ss ja",
+				"Set Syntax: Jade"
+			],
+			[
+				"ss eco",
+				"Set Syntax: HTML (ECO)"
+			]
+		],
+		"width": 444.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/BlueChili/Development/microsite",
+		"/Users/BlueChili/Development/microsite/local",
+		"/Users/BlueChili/Development/microsite/out",
+		"/Users/BlueChili/Development/microsite/src",
+		"/Users/BlueChili/Development/microsite/src/documents",
+		"/Users/BlueChili/Development/microsite/src/layouts",
+		"/Users/BlueChili/Development/microsite/src/partials",
+		"/Users/BlueChili/Development/microsite/bower_components/Semantic-UI/build/less",
+		"/Users/BlueChili/Development/microsite/bower_components/Semantic-UI/build/less/collections"
+	],
+	"file_history":
+	[
+		"/Users/BlueChili/Development/microsite/src/partials/header.html.jade",
+		"/Users/BlueChili/Development/microsite/src/static/css/semantic.min.css",
+		"/Users/BlueChili/Development/microsite/local/styles.less",
+		"/Users/BlueChili/Development/microsite/src/partials/feet.html",
+		"/Users/BlueChili/Development/microsite/out/index.html",
+		"/Users/BlueChili/Development/microsite/src/partials/head.html.jade",
+		"/Users/BlueChili/Development/microsite/bower_components/Semantic-UI/build/less/collections/breadcrumb.less",
+		"/Users/BlueChili/Development/microsite/node_modules/docpad/node_modules/yamljs/node_modules/glob/node_modules/minimatch/test/brace-expand.js",
+		"/Users/BlueChili/Development/microsite/bower_components/Semantic-UI/server/files/javascript/library/easing.js",
+		"/Users/BlueChili/Development/microsite/bower_components/jquery/src/manipulation/_evalUrl.js",
+		"/Users/BlueChili/Development/microsite/bower_components/Semantic-UI/server/files/javascript/library/ace/mode-autohotkey.js",
+		"/Users/BlueChili/Development/microsite/bower_components/Semantic-UI/server/draft/specification/authoring.html",
+		"/Users/BlueChili/Development/microsite/node_modules/docpad-plugin-livereload/node_modules/ws/lib/BufferUtil.js",
+		"/Users/BlueChili/Development/microsite/node_modules/docpad/node_modules/encoding/node_modules/iconv-lite/encodings/tables/big5-added.json",
+		"/Users/BlueChili/Development/microsite/node_modules/docpad/node_modules/express/node_modules/connect/lib/middleware/basicAuth.js",
+		"/Users/BlueChili/Development/microsite/node_modules/docpad/node_modules/bal-util/out/lib/balutil.js",
+		"/Users/BlueChili/Development/microsite/package.json",
+		"/Users/BlueChili/Development/microsite/src/documents/index.html.md",
+		"/Users/BlueChili/Desktop/index.html",
+		"/Users/BlueChili/Development/microsite/src/partials/feet.html.eco",
+		"/Users/BlueChili/Development/microsite/src/partials/head.eco",
+		"/Users/BlueChili/Development/microsite/src/partials/footer.html.eco",
+		"/Users/BlueChili/Development/microsite/css/styles.css",
+		"/Users/BlueChili/Development/microsite/bower_components/Semantic-UI/build/packaged/css/semantic.css",
+		"/Users/BlueChili/Development/microsite/src/files/css/styles.css",
+		"/Users/BlueChili/Development/microsite/local/styles.sass",
+		"/Users/BlueChili/Development/microsite/local/styles.scss",
+		"/Users/BlueChili/Development/microsite/bower_components/Semantic-UI/build/packaged/css/semantic.min.css",
+		"/Users/BlueChili/Development/microsite/src/render/index.html.md",
+		"/Users/BlueChili/Development/microsite/src/render/test.md",
+		"/Users/BlueChili/Development/microsite/src/layouts/default.html.eco",
+		"/Users/BlueChili/Development/microsite/src/documents/index.html",
+		"/Users/BlueChili/Library/Mobile Documents/com~apple~CloudDocs/microsite.sublime-project",
+		"/Users/BlueChili/Development/microsite/docpad.coffee",
+		"/Users/BlueChili/Development/microsite/src/layouts/default.haml.eco",
+		"/Users/BlueChili/Development/microsite/src/layouts/default.html.eco.html",
+		"/Users/BlueChili/Development/microsite/src/documents/index.html.html",
+		"/Users/BlueChili/Development/microsite/config.codekit",
+		"/Users/BlueChili/Development/doctest/src/documents/index.html",
+		"/Users/BlueChili/Development/doctest/src/documents/about.html.md",
+		"/Users/BlueChili/Development/doctest/src/layouts/default.html.eco",
+		"/Users/BlueChili/Development/doctest/docpad.coffee",
+		"/Users/BlueChili/Development/doctest/src/documents/about.html",
+		"/Users/BlueChili/Development/doctest/out/about.html",
+		"/Users/BlueChili/Development/doctest/out/index.html"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "out/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1066,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								740,
+								740
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/partials/header.html.jade",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 330,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								330,
+								330
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Jade/Syntaxes/Jade.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/layouts/default.html.eco",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 106,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8,
+								20
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "microsite.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"inde",
+				"out/index.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 243.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

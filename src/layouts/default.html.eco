@@ -1,0 +1,6 @@
+<%- @partial('head') %>
+<body>
+	<%- @partial('header') %>
+	<%- @content %>
+</body>
+<%- @partial('feet') %>

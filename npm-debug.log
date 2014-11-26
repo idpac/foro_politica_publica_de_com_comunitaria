@@ -1,0 +1,100 @@
+0 info it worked if it ends with ok
+1 verbose cli [ 'node',
+1 verbose cli   '/usr/local/bin/npm',
+1 verbose cli   'install',
+1 verbose cli   'docpad-plugin-coffescript@2',
+1 verbose cli   '--save' ]
+2 info using npm@1.4.28
+3 info using node@v0.10.32
+4 warn package.json no-skeleton.docpad@0.1.0 No repository field.
+5 verbose readDependencies using package.json deps
+6 verbose cache add [ 'docpad-plugin-coffescript@2', null ]
+7 verbose cache add name=undefined spec="docpad-plugin-coffescript@2" args=["docpad-plugin-coffescript@2",null]
+8 verbose parsed url { protocol: null,
+8 verbose parsed url   slashes: null,
+8 verbose parsed url   auth: null,
+8 verbose parsed url   host: null,
+8 verbose parsed url   port: null,
+8 verbose parsed url   hostname: null,
+8 verbose parsed url   hash: null,
+8 verbose parsed url   search: null,
+8 verbose parsed url   query: null,
+8 verbose parsed url   pathname: 'docpad-plugin-coffescript@2',
+8 verbose parsed url   path: 'docpad-plugin-coffescript@2',
+8 verbose parsed url   href: 'docpad-plugin-coffescript@2' }
+9 verbose cache add name="docpad-plugin-coffescript" spec="2" args=["docpad-plugin-coffescript","2"]
+10 verbose parsed url { protocol: null,
+10 verbose parsed url   slashes: null,
+10 verbose parsed url   auth: null,
+10 verbose parsed url   host: null,
+10 verbose parsed url   port: null,
+10 verbose parsed url   hostname: null,
+10 verbose parsed url   hash: null,
+10 verbose parsed url   search: null,
+10 verbose parsed url   query: null,
+10 verbose parsed url   pathname: '2',
+10 verbose parsed url   path: '2',
+10 verbose parsed url   href: '2' }
+11 verbose addNamed [ 'docpad-plugin-coffescript', '2' ]
+12 verbose addNamed [ null, '>=2.0.0-0 <3.0.0-0' ]
+13 silly lockFile 5b328f99-docpad-plugin-coffescript-2 docpad-plugin-coffescript@2
+14 verbose lock docpad-plugin-coffescript@2 /Users/BlueChili/.npm/5b328f99-docpad-plugin-coffescript-2.lock
+15 silly addNameRange { name: 'docpad-plugin-coffescript',
+15 silly addNameRange   range: '>=2.0.0-0 <3.0.0-0',
+15 silly addNameRange   hasData: false }
+16 verbose request where is /docpad-plugin-coffescript
+17 verbose request registry https://registry.npmjs.org/
+18 verbose request id 51a653814d1d383d
+19 verbose url raw /docpad-plugin-coffescript
+20 verbose url resolving [ 'https://registry.npmjs.org/', './docpad-plugin-coffescript' ]
+21 verbose url resolved https://registry.npmjs.org/docpad-plugin-coffescript
+22 verbose request where is https://registry.npmjs.org/docpad-plugin-coffescript
+23 info trying registry request attempt 1 at 00:27:41
+24 http GET https://registry.npmjs.org/docpad-plugin-coffescript
+25 http 404 https://registry.npmjs.org/docpad-plugin-coffescript
+26 verbose headers { date: 'Fri, 07 Nov 2014 05:27:41 GMT',
+26 verbose headers   server: 'CouchDB/1.5.0 (Erlang OTP/R14B04)',
+26 verbose headers   'content-type': 'application/json',
+26 verbose headers   'cache-control': 'max-age=0',
+26 verbose headers   'content-length': '52',
+26 verbose headers   'accept-ranges': 'bytes',
+26 verbose headers   via: '1.1 varnish',
+26 verbose headers   age: '0',
+26 verbose headers   'x-served-by': 'cache-iad2126-IAD',
+26 verbose headers   'x-cache': 'MISS',
+26 verbose headers   'x-cache-hits': '0',
+26 verbose headers   'x-timer': 'S1415338061.475056,VS0,VE65',
+26 verbose headers   'keep-alive': 'timeout=10, max=50',
+26 verbose headers   connection: 'Keep-Alive' }
+27 silly registry.get cb [ 404,
+27 silly registry.get   { date: 'Fri, 07 Nov 2014 05:27:41 GMT',
+27 silly registry.get     server: 'CouchDB/1.5.0 (Erlang OTP/R14B04)',
+27 silly registry.get     'content-type': 'application/json',
+27 silly registry.get     'cache-control': 'max-age=0',
+27 silly registry.get     'content-length': '52',
+27 silly registry.get     'accept-ranges': 'bytes',
+27 silly registry.get     via: '1.1 varnish',
+27 silly registry.get     age: '0',
+27 silly registry.get     'x-served-by': 'cache-iad2126-IAD',
+27 silly registry.get     'x-cache': 'MISS',
+27 silly registry.get     'x-cache-hits': '0',
+27 silly registry.get     'x-timer': 'S1415338061.475056,VS0,VE65',
+27 silly registry.get     'keep-alive': 'timeout=10, max=50',
+27 silly registry.get     connection: 'Keep-Alive' } ]
+28 silly lockFile 5b328f99-docpad-plugin-coffescript-2 docpad-plugin-coffescript@2
+29 silly lockFile 5b328f99-docpad-plugin-coffescript-2 docpad-plugin-coffescript@2
+30 error 404 404 Not Found: docpad-plugin-coffescript
+30 error 404
+30 error 404 'docpad-plugin-coffescript' is not in the npm registry.
+30 error 404 You should bug the author to publish it
+30 error 404 It was specified as a dependency of 'no-skeleton.docpad'
+30 error 404
+30 error 404 Note that you can also install from a
+30 error 404 tarball, folder, or http url, or git url.
+31 error System Darwin 14.0.0
+32 error command "node" "/usr/local/bin/npm" "install" "docpad-plugin-coffescript@2" "--save"
+33 error cwd /Users/BlueChili/Development/microsite
+34 error node -v v0.10.32
+35 error npm -v 1.4.28
+36 error code E404
+37 verbose exit [ 1, true ]
